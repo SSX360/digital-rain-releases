@@ -2,7 +2,7 @@
 
 Public installer assets for SSX360 Digital Rain — the local-first signing runtime for Matrix Scroll commit provenance.
 
-The product source remains in the private `SSX360/digital-rain` repository. This repository is only the public download surface used by [ssx360.com](https://ssx360.com/).
+This repository is the **public download surface** used by [ssx360.com](https://ssx360.com/). Installers are account-gated on the portal; release assets and `SHA256SUMS.txt` must stay reachable here for checksum verification.
 
 **Install path:** Provisioned pilot and team accounts sign in at [ssx360.com/signup](https://ssx360.com/signup) → activate your device → download the installer from the portal → bind a workspace → every agent commit is signed locally before merge. Verify envelopes offline at [matrixscroll.com/verify/](https://matrixscroll.com/verify/).
 
